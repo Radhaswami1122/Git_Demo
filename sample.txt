@@ -1,3 +1,11 @@
 echo"Welcome to Github"
 started first text file
 
+while(1)
+
+{
+if ($?==0)
+{
+exceution completed with commit)
+}}
+
