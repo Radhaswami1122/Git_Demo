@@ -1,4 +1,7 @@
-echo"Welcome to Github"
+
+
+kaflaf
+dk;lak
 started first text file
 
 while(1)
